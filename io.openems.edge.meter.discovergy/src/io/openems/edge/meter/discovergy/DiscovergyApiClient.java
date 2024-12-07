@@ -18,6 +18,8 @@ import io.openems.common.exceptions.OpenemsException;
 import io.openems.common.utils.JsonUtils;
 import io.openems.edge.meter.discovergy.jsonrpc.Field;
 
+
+
 /**
  * Client for the Discovergy API (<a href=
  * "https://api.discovergy.com/docs/">https://api.discovergy.com/docs/</a>).

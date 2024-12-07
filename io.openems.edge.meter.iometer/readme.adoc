@@ -1,0 +1,8 @@
+= ioMeter Smart-Meter
+
+Reads data of an ioMeter interface via online REST-Provider API. .
+
+Implemented Natures:
+- ElectricityMeter
+
+https://github.com/OpenEMS/openems/tree/develop/io.openems.edge.meter.iometer[Source Code icon:github[]]
